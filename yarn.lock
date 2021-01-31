@@ -1854,6 +1854,28 @@
   dependencies:
     confusing-browser-globals "^1.0.5"
 
+"@lljj/vjsf-utils@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npm.taobao.org/@lljj/vjsf-utils/download/@lljj/vjsf-utils-1.0.0.tgz#1007fe60e6b2af122fe5b1bfafd664e859eb7a9e"
+  integrity sha1-EAf+YOayrxIv5bG/r9Zk6Fnrep4=
+  dependencies:
+    ajv "^6.10.2"
+
+"@lljj/vue-json-schema-form@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@lljj/vue-json-schema-form/-/vue-json-schema-form-1.0.1.tgz#60995ce10a1e15907b5fed320c0ffc05d7bde80b"
+  integrity sha512-wt0KLcJNEIdYuOrdMJ7hJbGoj2SXS6ZB6a/weHhnCrebcS7KjaoFEz9/FT3Jek+8I2+4zqVOYBsfKRHi3t30fA==
+  dependencies:
+    "@lljj/vjsf-utils" "1.0.0"
+    "@lljj/vue2-form-core" "1.0.0"
+
+"@lljj/vue2-form-core@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npm.taobao.org/@lljj/vue2-form-core/download/@lljj/vue2-form-core-1.0.0.tgz#6c751987fc7f1de70fd6957d797dff89fa12c8c7"
+  integrity sha1-bHUZh/x/HecP1pV9eX3/ifoSyMc=
+  dependencies:
+    "@lljj/vjsf-utils" "1.0.0"
+
 "@marionebl/sander@^0.6.0":
   version "0.6.1"
   resolved "https://registry.npm.taobao.org/@marionebl/sander/download/@marionebl/sander-0.6.1.tgz#1958965874f24bc51be48875feb50d642fc41f7b"

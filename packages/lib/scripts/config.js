@@ -22,8 +22,8 @@ module.exports = {
     extractcss: false,
     output: {
         path: resolve('dist/'),
-        file: toHump('@lljj/schema-form-components'), // 导出文件名，自动拼接 format
-        name: toHump('@lljj/schema-form-components'), // umd 注册的全局变量名称
+        file: toHump('schema-form-components'), // 导出文件名，自动拼接 format
+        name: toHump('schemaFormComponents'), // umd 注册的全局变量名称
         format: ['esm', 'umd']
     }
 };

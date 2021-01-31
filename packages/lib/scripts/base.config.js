@@ -41,7 +41,7 @@ module.exports = ({
         banner: config.banner,
         sourcemap,
         name: config.output.name,
-        exports: 'named', /** Disable warning for default imports */
+        exports: 'default',
         globals: config.globals
     }));
 
