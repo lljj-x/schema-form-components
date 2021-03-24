@@ -12,7 +12,7 @@
 <script>
 import VueForm from '@lljj/vue-json-schema-form';
 import Vue from 'vue';
-import { TabField } from '@lljj/schema-form-components/src/index';
+import { TabField } from '@lljj/schema-form-components';
 
 Vue.component('TabField', TabField);
 
