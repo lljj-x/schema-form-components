@@ -1854,27 +1854,27 @@
   dependencies:
     confusing-browser-globals "^1.0.5"
 
-"@lljj/vjsf-utils@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npm.taobao.org/@lljj/vjsf-utils/download/@lljj/vjsf-utils-1.0.0.tgz#1007fe60e6b2af122fe5b1bfafd664e859eb7a9e"
-  integrity sha1-EAf+YOayrxIv5bG/r9Zk6Fnrep4=
+"@lljj/vjsf-utils@1.1.3":
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@lljj/vjsf-utils/-/vjsf-utils-1.1.3.tgz#0c91e97653f4a180018ba9278467838461c66fe8"
+  integrity sha512-iMOuKvKaAxTyhO7eKnG6RJvdqHkFKlzmwmlBJWGlKsfX8RnooAvMHUKRr1FHbO+v9LPCbHNgbE7CrWShvtJQ2A==
   dependencies:
     ajv "^6.10.2"
 
-"@lljj/vue-json-schema-form@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@lljj/vue-json-schema-form/-/vue-json-schema-form-1.0.1.tgz#60995ce10a1e15907b5fed320c0ffc05d7bde80b"
-  integrity sha512-wt0KLcJNEIdYuOrdMJ7hJbGoj2SXS6ZB6a/weHhnCrebcS7KjaoFEz9/FT3Jek+8I2+4zqVOYBsfKRHi3t30fA==
+"@lljj/vue-json-schema-form@^1.1.3":
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@lljj/vue-json-schema-form/-/vue-json-schema-form-1.1.3.tgz#1208daab4f666316656ae56b72c96a7df548e569"
+  integrity sha512-NoybaqdshFo5/vJJqjSNUAOVpxyiepnqdSB+0i16pTKS2KxRM4xhRfm4t9Zi34J01V3LJXFc+8ZQSzV+XyHLhg==
   dependencies:
-    "@lljj/vjsf-utils" "1.0.0"
-    "@lljj/vue2-form-core" "1.0.0"
+    "@lljj/vjsf-utils" "1.1.3"
+    "@lljj/vue2-form-core" "1.1.3"
 
-"@lljj/vue2-form-core@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npm.taobao.org/@lljj/vue2-form-core/download/@lljj/vue2-form-core-1.0.0.tgz#6c751987fc7f1de70fd6957d797dff89fa12c8c7"
-  integrity sha1-bHUZh/x/HecP1pV9eX3/ifoSyMc=
+"@lljj/vue2-form-core@1.1.3":
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@lljj/vue2-form-core/-/vue2-form-core-1.1.3.tgz#9cde4bf6fe27b22a4835d3f63e8cb9b73344e0f8"
+  integrity sha512-1BeGdzV4WhNmucB+/9/lwH36f27l/Sb2Wn+GV85Kf6cWd+ni0odhTlzu7IFlr+/2ah6Aks04mDm1N/HAT58Mew==
   dependencies:
-    "@lljj/vjsf-utils" "1.0.0"
+    "@lljj/vjsf-utils" "1.1.3"
 
 "@marionebl/sander@^0.6.0":
   version "0.6.1"
