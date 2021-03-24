@@ -1,6 +1,6 @@
 {
     "name": "@lljj/schema-form-components",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "为vue json schema form 提供通用 field widget 组件",
     "main": "dist/schema-form-components.umd.min.js",
     "module": "dist/schema-form-components.esm.min.js",
