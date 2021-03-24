@@ -1,7 +1,6 @@
 <template>
     <el-tabs
         v-model="activeName"
-        style="margin-bottom: 22px;"
     >
         <el-tab-pane
             v-for="item in tabs"

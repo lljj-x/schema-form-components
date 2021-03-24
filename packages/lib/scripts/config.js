@@ -19,6 +19,7 @@ function toHump(str) {
 module.exports = {
     entry: resolve('src/index.js'),
     banner,
+    external: ['@lljj/vue-json-schema-form'],
     extractcss: false,
     output: {
         path: resolve('dist/'),
